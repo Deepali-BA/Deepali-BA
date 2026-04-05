@@ -1,6 +1,6 @@
 # Hi, I'm Deepali 👋  
 
-🎯 **Business Analyst | Data Analysis | Product Delivery**
+🎯 **Business Analyst | Data Analyst | Product Delivery**
 
 Welcome to my GitHub portfolio!  
 
