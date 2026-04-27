@@ -4,7 +4,7 @@
 
 Welcome to my GitHub portfolio!  
 
-I’m a **Business Analyst with 4+ years of experience** working on SaaS and data-driven products.  
+I’m a **Business Analyst with 2.8 years of experience** working on SaaS and data-driven products.  
 I enjoy translating complex business problems into **clear requirements, structured workflows, and insightful dashboards** that help teams make **data-driven decisions**.
 
 💡 My work sits at the intersection of **business, data, and product delivery**.
